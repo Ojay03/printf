@@ -1,1 +1,1 @@
-Printf prototype _printf project by Ojemare And Oluwagbemga
+Printf prototype _printf project by Ojemare And Oluwagbenga
